@@ -1,4 +1,4 @@
-﻿using Playground;
+﻿using Play;
 
-Butikk butikk = new();
-butikk.kjøp();
+Control control = new();
+control.check();
